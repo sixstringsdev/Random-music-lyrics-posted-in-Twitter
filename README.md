@@ -7,8 +7,6 @@
 
 The following repo will contain the python code in order to post random lyrics from your favorite artists!
 
-If you have any doubt or issue u cand send me an e-mail to: jorge.zambrano@unmsm.edu.pe
-
 
 ### Objective
 
